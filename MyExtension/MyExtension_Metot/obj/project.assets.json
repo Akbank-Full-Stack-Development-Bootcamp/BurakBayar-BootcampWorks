@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\B\\source\\repos\\MyExtension_Metot\\MyExtension_Metot\\MyExtension_Metot.csproj",
+      "projectUniqueName": "C:\\Users\\B\\Desktop\\BurakBayar-BootcampWorks\\MyExtension\\MyExtension_Metot\\MyExtension_Metot.csproj",
       "projectName": "MyExtension_Metot",
-      "projectPath": "C:\\Users\\B\\source\\repos\\MyExtension_Metot\\MyExtension_Metot\\MyExtension_Metot.csproj",
+      "projectPath": "C:\\Users\\B\\Desktop\\BurakBayar-BootcampWorks\\MyExtension\\MyExtension_Metot\\MyExtension_Metot.csproj",
       "packagesPath": "C:\\Users\\B\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\B\\source\\repos\\MyExtension_Metot\\MyExtension_Metot\\obj\\",
+      "outputPath": "C:\\Users\\B\\Desktop\\BurakBayar-BootcampWorks\\MyExtension\\MyExtension_Metot\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\B\\AppData\\Roaming\\NuGet\\NuGet.Config",

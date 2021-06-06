@@ -10,10 +10,10 @@ namespace MyExtension_Metot
         static void Main(string[] args)
         {
             Console.Write("Uzunluğunu bulmak istediğiniz metni giriniz: ");
-            string metin =Console.ReadLine();
+            string word =Console.ReadLine();
           
             
-            Console.WriteLine("Metindeki harf sayisi: " + metin.HarfSayisi());
+            Console.WriteLine("Metindeki harf sayisi: " + word.LetterCount());
            
 
         

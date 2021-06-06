@@ -8,10 +8,10 @@ namespace MyExtension_Metot
 {
    public static class MyExtension
     {
-        public static int HarfSayisi(this string yazi)
+        public static int LetterCount(this string word)
         {
 
-            string BosluksuzYazi = yazi.Replace(" ", "");
+            string Count = word.Replace(" ", "");
 
             
            
@@ -19,7 +19,7 @@ namespace MyExtension_Metot
 
            
 
-            return BosluksuzYazi.Length;
+            return Count.Length;
 
         }
 
