@@ -1,0 +1,13 @@
+C:\Users\B\source\repos\MyExtension_Metot\MyExtension_Metot\obj\Debug\netcoreapp3.1\MyExtension_Metot.csproj.AssemblyReference.cache
+C:\Users\B\source\repos\MyExtension_Metot\MyExtension_Metot\obj\Debug\netcoreapp3.1\MyExtension_Metot.AssemblyInfoInputs.cache
+C:\Users\B\source\repos\MyExtension_Metot\MyExtension_Metot\obj\Debug\netcoreapp3.1\MyExtension_Metot.AssemblyInfo.cs
+C:\Users\B\source\repos\MyExtension_Metot\MyExtension_Metot\obj\Debug\netcoreapp3.1\MyExtension_Metot.csproj.CoreCompileInputs.cache
+C:\Users\B\source\repos\MyExtension_Metot\MyExtension_Metot\bin\Debug\netcoreapp3.1\MyExtension_Metot.exe
+C:\Users\B\source\repos\MyExtension_Metot\MyExtension_Metot\bin\Debug\netcoreapp3.1\MyExtension_Metot.deps.json
+C:\Users\B\source\repos\MyExtension_Metot\MyExtension_Metot\bin\Debug\netcoreapp3.1\MyExtension_Metot.runtimeconfig.json
+C:\Users\B\source\repos\MyExtension_Metot\MyExtension_Metot\bin\Debug\netcoreapp3.1\MyExtension_Metot.runtimeconfig.dev.json
+C:\Users\B\source\repos\MyExtension_Metot\MyExtension_Metot\bin\Debug\netcoreapp3.1\MyExtension_Metot.pdb
+C:\Users\B\source\repos\MyExtension_Metot\MyExtension_Metot\obj\Debug\netcoreapp3.1\MyExtension_Metot.dll
+C:\Users\B\source\repos\MyExtension_Metot\MyExtension_Metot\obj\Debug\netcoreapp3.1\MyExtension_Metot.pdb
+C:\Users\B\source\repos\MyExtension_Metot\MyExtension_Metot\obj\Debug\netcoreapp3.1\MyExtension_Metot.genruntimeconfig.cache
+C:\Users\B\source\repos\MyExtension_Metot\MyExtension_Metot\bin\Debug\netcoreapp3.1\MyExtension_Metot.dll

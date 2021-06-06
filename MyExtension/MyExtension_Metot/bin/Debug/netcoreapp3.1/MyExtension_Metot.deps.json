@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MyExtension_Metot/1.0.0": {
+        "runtime": {
+          "MyExtension_Metot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyExtension_Metot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
