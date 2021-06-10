@@ -1,0 +1,5 @@
+Middleware: https://burak-bayar.medium.com/middleware-nedir-e323438703cf
+
+Middleware Senaryo 1: Kullanıcının gönderdiği yazıda yasaklı kelime tarama olabilir.
+Middleware Senaryo 2: Girilen şifreyi salting(girilen şifrenin herhangi bir yerine karakterler eklenip öyle kaydedilir. Şifrenin çalınması durumunda güvenlik sağlar ) yapmak.
+Middleware Senaryo 3: Girilen şifreyi veritabanına göndermeden boşluk ve özel karater sorgusu yaplabilir (?) 
